@@ -6,6 +6,7 @@
 -- This library is free software; you can redistribute it and/or modify it
 -- under the terms of the MIT license. See LICENSE for details.
 --
+---@class utf8lib
 local utf8 = require("utf8")
 
 --  Substring function which gets a substring of `str` from character indices `start` to `stop`
